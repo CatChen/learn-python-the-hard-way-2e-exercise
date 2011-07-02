@@ -4,8 +4,15 @@ This is a file used to track my progress.
 
 ## 2011-06-29
 
-1. Skip exercise 0 because I'll just use TextMate
-2. Finish exercise 1 and also make it Python3 compatible
-3. Finish exercise 2
-4. Finish exercise 3 and found that [division operator](http://www.python.org/dev/peps/pep-0238/) has different meanings in Python2 and Python3
-5. Finish exercise 4
+1. Skipped exercise 0 because I'll just use TextMate
+2. Finished exercise 1 and also make it Python3 compatible
+3. Finished exercise 2
+4. Finished exercise 3 and found that [division operator](http://www.python.org/dev/peps/pep-0238/) has different meanings in Python2 and Python3
+5. Finished exercise 4
+
+## 2011-07-03
+
+1. Finished exercise 6
+2. Finished exercise 7 and found that [print statement](http://diveintopython3.org/porting-code-to-python-3-with-2to3.html#print) in Python3 use `end = ' '` to indicate what `,` ending means in Python2
+3. Finished exercise 8
+4. 
