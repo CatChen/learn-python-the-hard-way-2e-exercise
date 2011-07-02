@@ -15,4 +15,6 @@ This is a file used to track my progress.
 1. Finished exercise 6
 2. Finished exercise 7 and found that [print statement](http://diveintopython3.org/porting-code-to-python-3-with-2to3.html#print) in Python3 use `end = ' '` to indicate what `,` ending means in Python2
 3. Finished exercise 8
-4. 
+4. Finished exercise 9
+5. Finished exercise 10
+
