@@ -19,4 +19,7 @@ This is a file used to track my progress.
 5. Finished exercise 10
 6. Finished exercise 11 and found that [raw_input()](http://diveintopython3.org/porting-code-to-python-3-with-2to3.html#raw_input) becomes input() in Python3
 7. Finished exercise 12
+8. Finished exercise 13
+9. Finished exercise 14
+10. Finished exercise 15
 
