@@ -23,3 +23,10 @@ This is a file used to track my progress.
 9. Finished exercise 14
 10. Finished exercise 15
 
+## 2011-07-14
+
+1. Finished exercise 16
+2. Finished exercise 17 and renamed input to input_file and output to output_file in order to avoid naming conflict in Python3
+3. Finished exercise 18
+4. Finished exercise 19
+5. Finished exercise 20
