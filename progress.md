@@ -9,6 +9,7 @@ This is a file used to track my progress.
 3. Finished exercise 2
 4. Finished exercise 3 and found that [division operator](http://www.python.org/dev/peps/pep-0238/) has different meanings in Python2 and Python3
 5. Finished exercise 4
+6. Finished exercise 5
 
 ## 2011-07-03
 
@@ -30,3 +31,11 @@ This is a file used to track my progress.
 3. Finished exercise 18
 4. Finished exercise 19
 5. Finished exercise 20
+
+## 2011-07-18
+
+1. Finished exercise 21
+2. Skipped exercise 22
+3. Skipped exercise 23
+4. Finished exercise 24
+5. Finished exercise 25 and added .gitignore to ignore `__pycache__` directory.
